@@ -29,21 +29,21 @@ mv ./.config/nvim ./.config/.nvim.bak
 ### Linux & Mac
 
 ```bash
-git clone https://github.com/davecarrijo/my-NvChad ~/.config/nvim && nvim
+git clone https://github.com/davecarrijo/NvChad_BlazingFast ~/.config/nvim && nvim
 ```
 #### backup & download
 ```bash
-mv ./.config/nvim ./.config/.nvim.bak && git clone https://github.com/davecarrijo/my-NvChad ~/.config/nvim && nvim
+mv ./.config/nvim ./.config/.nvim.bak && git clone https://github.com/davecarrijo/NvChad_BlazingFast ~/.config/nvim && nvim
 ```
 
 ### Windows
 ##### CMD
 ```cmd
-git clone https://github.com/davecarrijo/my-NvChad %USERPROFILE%\AppData\Local\nvim && nvim
+git clone https://github.com/davecarrijo/NvChad_BlazingFast %USERPROFILE%\AppData\Local\nvim && nvim
 ```
 ##### Powershell
 ```powershell
-git clone https://github.com/davecarrijo/my-NvChad $ENV:USERPROFILE\AppData\Local\nvim && nvim
+git clone https://github.com/davecarrijo/NvChad_BlazingFast $ENV:USERPROFILE\AppData\Local\nvim && nvim
 ```
 ____
 ## Uninstallation
