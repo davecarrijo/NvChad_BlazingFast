@@ -72,12 +72,17 @@ cya matte
 ## Plugins
 I will update this later
 
-📂 File Structure
+## 📂 Extrutura de ficheiros
 
-The files under config will be automatically loaded at the appropriate time, so you don't need to require those files manually. LazyVim comes with a set of default config files that will be loaded before your own. See here
+Os ficheiros no diretório **config** serão carregados automaticamente
+no momento apropriado, por isso não é necessário carregar os plugins manualmente.
+**LazyVim** vem com um conjunto de ficheiros
+que serão carregados **_antes_** dos teus. Lẽ mais [aqui](https://github.com/LazyVim/LazyVim/tree/main/lua/lazyvim/config)
 
-You can add your custom plugin specs under lua/plugins/. All files there will be automatically loaded by lazy.nvim
+Tu podes acrescentar a tua configuração em `lua/plugins`. Todos os ficheiros
+neste diretório serão carregados automaticamente por [lazy.nvim](https://github.com/folke/lazy.nvim)
 
+</pre>
 ~/.config/nvim
 ├── lua
 │   │
@@ -92,3 +97,4 @@ You can add your custom plugin specs under lua/plugins/. All files there will be
 │       ├── **
 │       └── spec2.lua
 └── init.lua
+</pre>
