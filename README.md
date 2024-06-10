@@ -13,9 +13,9 @@ This is supposed to be simple, easy and blasing-fast using ssh whenever/wherever
 - Nerd Font as your terminal font. You can search here [NerdFonts](https://www.nerdfonts.com/)
 - Make sure the nerd font you set doesn't end with Mono to prevent small icons.
   - Example : JetbrainsMono Nerd Font "" and not JetbrainsMono Nerd Font "Mono"
-  - Personally I use [Meslo(preview)](https://www.programmingfonts.org/#meslo),[Meslo - download](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Meslo.zip)
+  - Personally I use [[Meslo(preview)]](https://www.programmingfonts.org/#meslo),[[Meslo - download]](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Meslo.zip)
 - Ripgrep is required for grep searching with Telescope (OPTIONAL).
-- Delete/backup old neovim folders (check commands below)
+- Delete/backup old neovim folders if you have (check commands below)
 - git -- strongly recommend it
 - Codeium for code completion -- optional
 - sed, for replacing
