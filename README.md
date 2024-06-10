@@ -1,6 +1,7 @@
 # This is a neo-vim / vim distribuition. based on nvchad and lazyvim.
 There's commands to easy install in every plataform that you use, even in android (via root) /ios terminal (via jailbreak).
-This is supposed to be simple, easy and blasing-fast using ssh whenever/wherever I need, and to help me during my Uni days. 
+This is supposed to be simple, easy and blasing-fast using ssh whenever/wherever I need, and to help me during my Uni days.
+ startup time, stats for nerds --> 89.95ms 
 
 # My NvChad configuration
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1uajZqb21rMTV5dXUyaTB1d3ZuN2hzNjE1MTE5ZTZodTN3eTY3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JNFMqgqtcrwwk27Z3f/source.gif)
