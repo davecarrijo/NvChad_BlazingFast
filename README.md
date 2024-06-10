@@ -1,3 +1,4 @@
+This is a neo-vim / vim distribuition. based on nvchad and lazyvim.
 # My NvChad configuration
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1uajZqb21rMTV5dXUyaTB1d3ZuN2hzNjE1MTE5ZTZodTN3eTY3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JNFMqgqtcrwwk27Z3f/source.gif)
 
