@@ -20,8 +20,8 @@ This is supposed to be simple, easy and blasing-fast using ssh whenever/wherever
 - Codeium for code completion -- optional
 - sed, for replacing
 - #### For windows user's only
-  - GCC,Windows users must have mingw installed and set on path.
-  - Make,Windows users must have GnuWin32 installed and set on path.
+  - GCC, Windows users must have mingw installed and set on path.
+  - Make, Windows users must have GnuWin32 installed and set on path.
   - Win32yank, for clipboard -- optional for mac/linux users (if you use windows)
 
 ___
